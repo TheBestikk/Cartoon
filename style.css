@@ -1,6 +1,6 @@
 body{
     background-color: #E7DFD8;
-    font-family: "Inter". sans-serif;
+    font-family: "Inter", sans-serif;
 }
 body, h2, p{
     margin: 0px;
@@ -17,7 +17,9 @@ span{
     border-radius: 100px;
     justify-content: center;
 }
+
 /* перша секція */
+
 .first-container{
     padding: 99px;
     display: flex;
@@ -65,7 +67,9 @@ span{
     text-decoration: none;
     display: inline-block;
 }
+
 /* друга секція */
+
 .second-container{
     padding: 99px;
     display: flex;
@@ -113,7 +117,9 @@ span{
     text-decoration: none;
     display: inline-block;
 }
+
 /* третя секція */
+
 .thrid-container{
     padding: 99px;
     display: flex;
