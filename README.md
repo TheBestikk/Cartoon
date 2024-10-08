@@ -21,8 +21,8 @@ ___
     * __Telegram:__ https://t.me/TheBestiikkk
     * __Gmail:__ zakharovkirill357@gmail.com
 # Screenshoots layout
-![web-site](Images-readme/first.png)
-![Web=site](Images-readme/second.png)
-![web-site](Images-readme/third.png)
+![web-site](readme/Images-readme/first.png)
+![Web=site](readme/Images-readme/second.png)
+![web-site](readme/Images-readme/third.png)
 ___
 # __Thanks for watching, good luck and see you soon!👋__
